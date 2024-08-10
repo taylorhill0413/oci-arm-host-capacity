@@ -1,4 +1,4 @@
-name: Check and Create oracle cloud every 5 minutes
+name: Create oracle cloud every 5 minutes
 
 on:
   push:
